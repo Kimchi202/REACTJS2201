@@ -1,3 +1,0 @@
-Thẻ br dùng để xuống dòng 
-THẻ hr dùng để tạo 1 dòng kẻ ngang 
-Nhóm thẻ định dạng văn bản: b(strong) - bôi đậm văn bản, i(ins) - in nghiêng văn bản, u - gạch chân văn bản, small - in chữ nhỏ, del - gạch ngang, sub - logarit, sup - dấu mũ
