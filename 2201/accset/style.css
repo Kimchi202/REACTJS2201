@@ -1,0 +1,41 @@
+#text-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    
+}
+h2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    color: #252B42
+}
+h4 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 40px;
+    color: #374754
+
+}
+#Fetures-style {
+    display: flex;
+}
+.ti-vector,
+.ti-pencil-alt2,
+.ti-clipboard {
+    font-size: 25px;
+    color: #2091F9;
+}
+.icon > h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.icon > p {
+    font-size: 18px;
+}
+.icon {
+    text-align: center;
+    padding: 10px 15px;
+}
