@@ -124,3 +124,62 @@
 //    console.log("No"); 
 // }
 // checkOddNumberForm(131);
+
+
+
+
+
+// Number
+// convert, checknumber, math, random
+
+// convert : chuyển từ số sang chuỗi và ngược lại
+// let a = 123456;
+// console.log(a + "");
+
+
+// Kiểm tra có phải là số hay không
+// console.log(number("Hiep"));
+// kiểm tra số đó không phải là số
+
+// Các hàm toán học: floor, round 
+// let a = 3.6;
+// console.log(Math.random(a));
+// function getRandom(max, min) {
+//     return Math.floor(Math.random() * (max - min + 1)) + min;
+// }
+// console.log(getRandom(6, 1));
+// function getRandom(max, min) {
+//     return Math.floor(Math.random() * (max - min + 1)) + min;
+// }
+// console.log(getRandom(6, 1));
+
+// STRING
+// let str = "Toi la Hiep";
+// let str2 = 'Toi la Hiep';
+// console.log("viet hoa tat ca", str.toUpperCase());
+// console.log("Viet thuong tat ca", str2.toLowerCase);
+// console.log("indexOf", str.indexOf('v'));// search  trả về vị trí nếu có và trả về -1 nếu ko 
+// console.log("slice", str.slice(2, 9));// cắt chuỗi lấy cả 2 ko lấy 9
+// console.log("subString", str.substring(2, 9));
+// console.log("replace", str.replace("a" , 'u'));// Thay vị trí có a bằng u
+// console.log("replaceAll", str.replanceAll("a", "monkey"));// thay hết 1 ký từ thành 1 từ hoặc vân vân
+// console.log("includes", str.includes("a"));// Tìm kiểm xem có không và trả về kiểu dữ liệu boolen
+
+
+// Chuẩn hóa string
+// function toUpper(str) {
+//     return str
+//         .toLowerCase()
+//         .split(' ')
+//         .map(function(Word) {
+//             return Word[0].toUpperCase() + Word.substr(1);
+//         })
+//         .join(' ');
+//      }
+//      console.log(toUpper("tRan tUan anH"))
+//      function CapitlizeString(Word) 
+// {
+//     return Word.charAt(0).toUpperCase() + Word.slice(1);
+// }
+// console.log(("tRan tUan anH"));
+
